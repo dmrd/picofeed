@@ -1,0 +1,11 @@
+* Pico Ink
+
+Feed reader & homebase
+
+
+- Source from inoreader
+- prioritize with active learning recommender
+
+
+- in frontend/: `npm run build`
+- run `streamlit run feed.py`
