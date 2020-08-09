@@ -1,11 +1,16 @@
-* Pico Ink
+* Pico feed
 
-Feed reader & homebase
+A tiny feed reader
 
+- Load data from inoreader in python
 
-- Source from inoreader
-- prioritize with active learning recommender
+** Developing
 
+Setup cljs & python live reloading.
 
-- in frontend/: `npm run build`
-- run `streamlit run feed.py`
+- `shadow-cljs watch app`
+- `streamlit run feed.py`
+
+** Tasks
+- Allow selecting feed
+- Store labels
